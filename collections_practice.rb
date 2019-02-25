@@ -42,6 +42,9 @@ def find_a(array)
     str[0] == "a"
   end
   end
+  
+  
+
 
 
 
