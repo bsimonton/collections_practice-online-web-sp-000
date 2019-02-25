@@ -39,7 +39,7 @@ end
 
 
 def find_a(array)
- array.find_all do |string|
+ array.select do |string|
    string[0] == "a"
 end
 
