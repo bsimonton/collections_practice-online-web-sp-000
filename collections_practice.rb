@@ -42,7 +42,7 @@ def find_a(array)
   new_array = []
   
   array.each do |string|
-    if string.start_with? == "a"
+    if string.start_with? == a
       string << new_array
     end
   end
