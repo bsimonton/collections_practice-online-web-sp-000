@@ -11,3 +11,10 @@ array.sort! do |a,b|
 end
   
 end
+
+
+
+def sort_array_char_count(array)
+  
+  
+end
